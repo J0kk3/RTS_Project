@@ -1,2 +1,1 @@
-# Web-Dev-Template
-A template repo for web development
+A project to learn C#-gamedevelopment in Unity
